@@ -29,23 +29,20 @@ The dataset is divided into training and testing sets. The training set is used 
 Crop_Disease_Classifier/
 ├── image/
 │ ├── Cassava.jpg
-|
 ├── notebooks/
 │ ├── exploratory_analysis.ipynb
 │ ├── result_visualization.ipynb
-|
 ├── src/
 │ ├── data_preprocessing.py
 │ ├── model.py
 │ ├── train.py
 │ ├── utils.py
-│
 ├── tests/
 │ ├── test.py
-│
+├── LICENSE
 ├── README.md
 ├── main.py
-├── requirements.txt 
+└── requirements.txt 
 ```
 ## Model Architecture
 
